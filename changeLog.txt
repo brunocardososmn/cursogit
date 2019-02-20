@@ -1,0 +1,5 @@
+Changelog
+
+Release Notes
+------
+20/02/2018 - Alteração na estrutura
