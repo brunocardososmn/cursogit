@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-﻿
-=======
-Changelog
-
-Release Notes
-------
-20/02/2018 - Alteração na estrutura
->>>>>>> 5db369ed271877bdc94e22c7e28687ebdc13e10b
